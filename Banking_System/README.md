@@ -1,0 +1,6 @@
+- There will be a customer and an Employee.
+- Every Employee will have customers to cater to and he/she will be responsible for initiating loans.
+- Employees will also be working in one Branch(office) and will be assigned one Job.
+- Every Customer will have only 1 bank account.
+- There are 2 types of bank account : Savings and Current Account.
+- Customers will be allowed to take multiple loans.
